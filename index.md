@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Sara
 <h1>Sara's website</h1>
 
 <p>Support animal rights.</p>
 
 <h2>Get involved</h2>
 <p>Become an activist</p>
-
-<button>Click me</button>
 
 You can use the [editor on GitHub](https://github.com/valeblt/sara/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
